@@ -7,13 +7,13 @@ Benvenuti nel mio repository dedicato all'apprendimento di Java. Questa raccolta
 Il repository è organizzato in moduli, ognuno focalizzato su specifiche tecnologie Java:
 
 ### 🎮 Simulazione e Grafica
-* **[Galton-Machine-Simulator-GUI](./Galton-Machine-Simulator-GUI)**: Un simulatore statistico della "Macchina di Galton". Utilizza la libreria `java.awt.Graphics` per il rendering di istogrammi dinamici in tempo reale.
+* **[Macchina-Galton-Simulator-GUI](./Macchina-Galton-Simulator-GUI)**: Un simulatore statistico della "Macchina di Galton". Utilizza la libreria `java.awt.Graphics` per il rendering di istogrammi dinamici in tempo reale.
 * **[Gara-Automobilistica](./Esercizio-Gara-Auto)**: Simulatore di GP di Formula 1 con algoritmi di ordinamento (Bubble Sort) per la gestione delle classifiche.
 
 ### 🏢 Gestionale & Business Logic
 * **[Call-Center-Manager-GUI](./Call-Center-Manager-GUI)**: Sistema gestionale completo con accesso amministratore, validazione tramite **Regex** e interfaccia Swing avanzata.
 * **[Biblioteca-Java-CSV](./Biblioteca-Java-CSV)**: Gestione di un archivio libri con sistema di salvataggio/lettura su file **CSV** (Data Persistence).
-* **[Garage-Pila-Manager](./Esercizio-Garage-Pila)**: Implementazione di strutture dati a stack (Pila) per la gestione dei veicoli in un garage.
+* **[Garage-Pila](./Esercizio-Garage-Pila)**: Implementazione di strutture dati a stack (Pila) per la gestione dei veicoli in un garage.
 
 ### 🛠️ Utility & Esercitazioni
 * **Gestione-Prenotazioni**: Sistema per la riservazione di posti e gestione disponibilità.
