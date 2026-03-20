@@ -8,7 +8,7 @@ Il repository è organizzato in moduli, ognuno focalizzato su specifiche tecnolo
 
 ### 🎮 Simulazione e Grafica
 * **[Macchina-Galton-Simulator-GUI](./Macchina-Galton-Simulator-GUI)**: Un simulatore statistico della "Macchina di Galton". Utilizza la libreria `java.awt.Graphics` per il rendering di istogrammi dinamici in tempo reale.
-* **[Gara-Automobilistica](./Esercizio-Gara-Auto)**: Simulatore di GP di Formula 1 con algoritmi di ordinamento (Bubble Sort) per la gestione delle classifiche.
+* **[Gara-Automobilistica](./Esercizio-Corsa)**: Simulatore di GP di Formula 1 con algoritmi di ordinamento (Bubble Sort) per la gestione delle classifiche.
 
 ### 🏢 Gestionale & Business Logic
 * **[Call-Center-Manager-GUI](./Call-Center-Manager-GUI)**: Sistema gestionale completo con accesso amministratore, validazione tramite **Regex** e interfaccia Swing avanzata.
