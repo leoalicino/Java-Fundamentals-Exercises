@@ -1,4 +1,4 @@
-# 🚀 Java Fundamentals & Advanced OOP Exercises
+# 🚀 Fondamenti di Java
 
 Benvenuti nel mio repository dedicato all'apprendimento di Java. Questa raccolta include esercizi che spaziano dalle basi della programmazione a oggetti fino alla creazione di interfacce grafiche (GUI) complesse e sistemi di persistenza dati.
 
@@ -35,4 +35,4 @@ Ogni cartella è un progetto indipendente. Per eseguirli:
 3. Esegui il Main: `java Main` (o `java App` a seconda del progetto).
 
 ---
-**Realizzato con passione durante il percorso di studi in Informatica.**
+**Realizzato durante il percorso di studi in Informatica.**
